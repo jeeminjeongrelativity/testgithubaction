@@ -13,11 +13,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-env:
-  ClientId: test
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
->>>>>>> 1181e14ff4efe80a4b064be96630de4815599ace
 jobs:
   dotnet_microservice_ci_cd:
     uses: jeeminjeongrelativity/testgithubaction/.github/workflows/blankrefer.yaml@main
