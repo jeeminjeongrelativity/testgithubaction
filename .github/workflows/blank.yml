@@ -16,6 +16,4 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   dotnet_microservice_ci_cd:
-    uses: jeeminjeongrelativity/testgithubaction/.github/workflows/blankrefer.yaml@main
-    with:
-    secrets:
+    uses: ./.github/workflows/blankrefer.yaml
