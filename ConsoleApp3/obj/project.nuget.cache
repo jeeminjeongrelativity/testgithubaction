@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpWcwBOjEja3WSBgTV3R7znSi+GTcz6n1yi1ayhLk4yo0KCY/FyftPCy6TmgZfv7ySVQLKtpUZQHa3yGEqd5Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeemin.jeong\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeemin.jeong\\.nuget\\packages\\relativity.logging\\3000.6.0-pre.2\\relativity.logging.3000.6.0-pre.2.nupkg.sha512",
+    "C:\\Users\\jeemin.jeong\\.nuget\\packages\\relativity.logging.interfaces\\3000.6.0-pre.2\\relativity.logging.interfaces.3000.6.0-pre.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.AssemblyInfo.cs
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net462\ConsoleApp3.exe.config
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net462\ConsoleApp3.exe
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net462\ConsoleApp3.pdb
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net462\Relativity.Logging.Interfaces.dll
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net462\Relativity.Logging.dll
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.csproj.CopyComplete
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.exe
+C:\Users\jeemin.jeong\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net462\ConsoleApp3.pdb
